@@ -1,0 +1,7 @@
+{
+  "name": "es.Reverberance.App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
